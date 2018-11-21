@@ -1,0 +1,1 @@
+nasm -o [un nom].com [nom complet du fichier texte]
